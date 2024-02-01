@@ -57,5 +57,5 @@ Welcome to the Restaurant Automated Menu Desktop Application! This JavaFX-based 
 
 ## Contributions
 
-Contributions are welcome! If you'd like to contribute to the development of this project, please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to the development of this project, please follow the [contribution guidelines].
 
