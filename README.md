@@ -25,13 +25,12 @@ Welcome to the Restaurant Automated Menu Desktop Application! This JavaFX-based 
 
 - **JavaFX:** Frontend development.
 - **Java:** Backend logic and integration.
-- 
+  
 ## How to Run
 
 ### Prerequisites
 
 - Ensure you have Java installed on your machine.
-- (Add any other prerequisites if necessary)
 
 ### Steps
 
